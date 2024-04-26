@@ -1,6 +1,6 @@
 <?php
 
-namespace zoparga\SimplePayLaravel\Helpers;
+namespace Zoparga\SimplePayLaravel\Helpers;
 
 class ErrorCodes
 {
