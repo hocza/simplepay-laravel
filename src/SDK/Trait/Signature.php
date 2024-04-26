@@ -1,6 +1,6 @@
 <?php
 
-namespace zoparga\SimplePayLaravel\SDK\Trait;
+namespace Zoparga\SimplePayLaravel\SDK\Trait;
 
 use Exception;
 
