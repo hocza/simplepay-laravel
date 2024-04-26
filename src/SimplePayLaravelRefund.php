@@ -1,9 +1,9 @@
 <?php
 
-namespace zoparga\SimplePayLaravel;
+namespace Zoparga\SimplePayLaravel;
 
-use zoparga\SimplePayLaravel\SDK\SimplePayRefund;
-use zoparga\SimplePayLaravel\SDK\SimplePayStart;
+use Zoparga\SimplePayLaravel\SDK\SimplePayRefund;
+use Zoparga\SimplePayLaravel\SDK\SimplePayStart;
 
 class SimplePayLaravelRefund
 {
