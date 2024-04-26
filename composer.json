@@ -24,12 +24,12 @@
     },
     "autoload": {
         "psr-4": {
-            "zoparga\\SimplePayLaravel\\": "src"
+            "Zoparga\\SimplePayLaravel\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "zoparga\\SimplePayLaravel\\Tests\\": "tests"
+            "Zoparga\\SimplePayLaravel\\Tests\\": "tests"
         }
     },
     "scripts": {
@@ -42,10 +42,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "zoparga\\SimplePayLaravel\\SimplePayLaravelServiceProvider"
+                "Zoparga\\SimplePayLaravel\\SimplePayLaravelServiceProvider"
             ],
             "aliases": {
-                "SimplePayLaravel": "zoparga\\SimplePayLaravel\\SimplePayLaravelFacade"
+                "SimplePayLaravel": "Zoparga\\SimplePayLaravel\\SimplePayLaravelFacade"
             }
         }
     }
