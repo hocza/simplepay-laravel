@@ -1,6 +1,6 @@
 <?php
 
-namespace zoparga\SimplePayLaravel;
+namespace Zoparga\SimplePayLaravel;
 
 use Illuminate\Support\ServiceProvider;
 
